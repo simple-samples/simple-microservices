@@ -1,6 +1,6 @@
 # simple-microservices
 
-start order:
+start order:  
 discovery - eureka  
 gateway - zuul  
 addition - addition-service  
