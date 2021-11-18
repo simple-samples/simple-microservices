@@ -1,9 +1,9 @@
 # simple-microservices
 
 start order:
-discovery - eureka
-gateway - zuul
-addition - addition-service
+discovery - eureka  
+gateway - zuul  
+addition - addition-service  
 
 
 eureka dashboard:
